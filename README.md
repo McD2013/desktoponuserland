@@ -7,5 +7,5 @@ Install the "Userland" app from the Google Play Store
 4. It will start to install - It could take a while
 5. Once It is installed, it will ask you which type of connection you would like to use. Select VNC.
 If you see a terminal, you have installed Kali Linux on your phone
-Copy the contents of Userlend.sh and wait for it to install
+Copy the contents of Userland.sh and wait for it to install
 When finished, type startxfce4.
